@@ -60,7 +60,7 @@ The DQN agent became an **aggressive scalper**, trading constantly and failing t
 1.  Clone the repository:
 
     ```
-    git clone https://github.com/mohammadd13579/NeuroTrader.git
+    git clone https://github.com/mh-bagheri/NeuroTrader.git
     ```
 
 2.  Install dependencies:
